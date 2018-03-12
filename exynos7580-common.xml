@@ -4,7 +4,7 @@
   <project name="Exynos7580/android_kernel_samsung_exynos7580-common" path="kernel/samsung/exynos7580-common" remote="github" revision="lineage-15.1" />
   <project name="Exynos7580/android_vendor_samsung_exynos7580-common" path="vendor/samsung/exynos7580-common" remote="github" revision="lineage-15.1" />
   <project name="Exynos7580/android_hardware_samsung_slsi-cm_exynos7580" path="hardware/samsung_slsi-cm/exynos7580" remote="github" revision="lineage-15.1" />
-  <project name="Exynos7580/android_external_protobuf-compat-2.6" path="external/protobuf-compat-2.6" remote="github" revision="lineage-15.0" />
+  <project name="Exynos7580/android_external_protobuf-compat-2.6" path="external/protobuf-compat-2.6" remote="github" revision="lineage-15.1" />
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-15.1" />
   <project name="LineageOS/android_packages_apps_FlipFlap" path="packages/apps/FlipFlap" remote="github" revision="lineage-15.1" />
   <project name="TeamNexus/android_hardware_samsung_slsi-cm_exynos" path="hardware/samsung_slsi-cm/exynos" remote="github" revision="nx-8.1" />
