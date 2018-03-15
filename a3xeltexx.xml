@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="Exynos7580/android_device_samsung_a3xeltexx" path="device/samsung/a3xeltexx" remote="github" revision="lineage-15.1" />
-  <project name="Exynos7580/android_vendor_samsung_a3xeltexx" path="vendor/samsung/a3xeltexx" remote="github" revision="lineage-15.1" />
+  <project name="Exynos7580/android_device_samsung_a3xeltexx" path="device/samsung/a3xeltexx" remote="github" revision="lineage-15.1_sekil" />
+  <project name="Exynos7580/android_vendor_samsung_a3xeltexx" path="vendor/samsung/a3xeltexx" remote="github" revision="lineage-15.1_sekil" />
 </manifest>
