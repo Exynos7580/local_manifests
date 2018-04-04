@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-  <project name="Exynos7580/android_device_samsung_s5neoltexx" path="device/samsung/s5neoltexx" remote="github" revision="lineage-15.1" />
-  <project name="Exynos7580/android_vendor_samsung_s5neoltexx" path="vendor/samsung/s5neoltexx" remote="github" revision="lineage-15.1" />
-</manifest>

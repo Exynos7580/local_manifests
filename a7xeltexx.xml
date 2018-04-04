@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-  <project name="Exynos7580/android_device_samsung_a7xeltexx" path="device/samsung/a7xeltexx" remote="github" revision="lineage-15.1" />
-  <project name="Exynos7580/android_vendor_samsung_a7xeltexx" path="vendor/samsung/a7xeltexx" remote="github" revision="lineage-15.1" />
-</manifest>

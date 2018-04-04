@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remove-project name="LineageOS/android_packages_apps_Bluetooth" />
+  <remove-project name="LineageOS/android_packages_apps_FMRadio" />
+  <remove-project name="LineageOS/android_system_bt" />
+  <remove-project name="LineageOS/android_hardware_libhardware" />
+
+  <project name="Exynos7580/android_packages_apps_FMRadio" path="packages/apps/FMRadio" remote="github" revision="los-14.1_sekil" />
+  <project name="Exynos7580/android_system_bt" path="system/bt" remote="github" revision="los14.1_sekil" />
+  <project name="Exynos7580/android_packages_apps_Bluetooth" path="packages/apps/Bluetooth" remote="github" revision="los14.1_sekil" />
+  <project name="Exynos7580/android_hardware_libhardware" path="hardware/libhardware" remote="github" revision="cm-14.1_sekil" />
+
+</manifest>
+
