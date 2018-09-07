@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="Exynos7580/android_device_samsung_j7eltexx" path="device/samsung/j7eltexx" remote="github" revision="lineage-15.1" />
+  <project name="Exynos7580/android_vendor_samsung_j7eltexx" path="vendor/samsung/j7eltexx" remote="github" revision="lineage-15.1" />
+</manifest>
