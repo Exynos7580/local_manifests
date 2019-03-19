@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <project name="Exynos7580/android_device_samsung_exynos7580-common" path="device/samsung/exynos7580-common" remote="github" revision="los-14.1_sekil" />
-  <project name="Exynos7580/android_kernel_samsung_a3xeltexx" path="kernel/samsung/exynos7580-common" remote="github" revision="los-14.1_sekil" />
+  <project name="Exynos7580/android_kernel_samsung_a3xeltexx" path="kernel/samsung/exynos7580-common" remote="github" revision="los-14.1_new" />
   <project name="Exynos7580/android_hardware_samsung_slsi-cm_exynos7580" path="hardware/samsung_slsi-cm/exynos7580" remote="github" revision="los-14.1_sekil" />
   <project name="Exynos7580/android_hardware_samsung_slsi-cm_exynos" path="hardware/samsung_slsi-cm/exynos" remote="github" revision="los-14.1_sekil" />
   <project name="Exynos7580/android_vendor_samsung_exynos7580-common" path="vendor/samsung/exynos7580-common" remote="github" revision="los-14.1_sekil"" />
