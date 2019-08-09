@@ -11,4 +11,7 @@
   <project name="LineageOS/android_hardware_samsung_slsi-cm_openmax" path="hardware/samsung_slsi-cm/openmax" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="cm-14.1" />
+
+  <project name="Exynos7580/android_external_libnfc-nci" path="external/libnfc-nci" remote="github" revision="los-14.1_sekil" />
+
 </manifest>
