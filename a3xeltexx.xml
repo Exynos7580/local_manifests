@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="Exynos7580/android_device_samsung_a3xeltexx" path="device/samsung/a3xeltexx" remote="github" revision="lineage-15.1" />
-  <project name="Exynos7580/android_vendor_samsung_a3xeltexx" path="vendor/samsung/a3xeltexx" remote="github" revision="lineage-15.1" />
+  <remote  name="github"
+           fetch="https://github.com" />
+  
+  <remove-project name="ThirdProject/android_external_libnfc-nci" />
+  <remove-project name="MoKee/android_packages_apps_Bluetooth" />
+  <remove-project name="MoKee/android_packages_apps_FMRadio" />
+  <remove-project name="MoKee/android_system_bt" />
+  <remove-project name="MoKee/android_hardware_libhardware" />
+
+
+  <project name="LineageOS/android_packages_apps_FlipFlap" path="packages/apps/FlipFlap" remote="github" revision="cm-14.1" />
+  <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos5" path="hardware/samsung_slsi-cm/exynos5" remote="github" revision="cm-14.1" />
+  <project name="LineageOS/android_hardware_samsung_slsi-cm_openmax" path="hardware/samsung_slsi-cm/openmax" remote="github" revision="cm-14.1" />
+  <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="cm-14.1" />
+  <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="cm-14.1" />
+
+  <project name="Exynos7580/android_device_samsung_a3xeltexx" path="device/samsung/a3xeltexx" remote="github" revision="los-14.1_sekil" />
+  <project name="Exynos7580/android_vendor_samsung_a3xeltexx" path="vendor/samsung/a3xeltexx" remote="github" revision="los-14.1_sekil" />
+  <project name="Exynos7580/android_kernel_samsung_a3xeltexx" path="kernel/samsung/exynos7580-common" remote="github" revision="los-14.1_dev" />
+  <project name="Exynos7580/android_hardware_samsung_slsi-cm_exynos7580" path="hardware/samsung_slsi-cm/exynos7580" remote="github" revision="los-14.1_sekil"/>
+  <project name="Exynos7580/android_hardware_samsung_slsi-cm_exynos" path="hardware/samsung_slsi-cm/exynos" remote="github" revision="los-14.1_sekil" />
+  <project name="Exynos7580/android_external_libnfc-nci" path="external/libnfc-nci" remote="github" revision="los-14.1_sekil" />
+  <project name="Exynos7580/android_packages_apps_FMRadio" path="packages/apps/FMRadio" remote="github" revision="los-14.1_sekil" />
+  <project name="Exynos7580/android_system_bt" path="system/bt" remote="github" revision="los14.1_sekil" />
+  <project name="Exynos7580/android_packages_apps_Bluetooth" path="packages/apps/Bluetooth" remote="github" revision="los14.1_sekil" />
+  <project name="Exynos7580/android_hardware_libhardware" path="hardware/libhardware" remote="github" revision="cm-14.1_sekil" />
 </manifest>
